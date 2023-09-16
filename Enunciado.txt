@@ -1,0 +1,1 @@
+Implementar o algoritmo de Kruskal para a árvore geradora minima usando uma heap binária e union find e retorne a soma do peso das arestas
